@@ -1,0 +1,5 @@
+install_
+sys/tmp/*
+sys/logs/*
+sys/avatars/*
+sys/cache/*
